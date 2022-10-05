@@ -15,7 +15,7 @@
         <java.version>9</java.version>
         <junit.jupiter.version>5.0.3</junit.jupiter.version>
         <junit.platform.version>1.0.0</junit.platform.version>
-        <com.fasterxml.jackson.version>2.10.1</com.fasterxml.jackson.version>
+        <com.fasterxml.jackson.version>2.12.6.1</com.fasterxml.jackson.version>
     </properties>
 
     <dependencies>
